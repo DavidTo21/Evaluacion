@@ -1,0 +1,10 @@
+C:\Evaluacion_Tecnica\testdevbackjr\Prueba_2\TestDevBackJr\TestDevBackJr\bin\Debug\TestDevBackJr.exe.config
+C:\Evaluacion_Tecnica\testdevbackjr\Prueba_2\TestDevBackJr\TestDevBackJr\bin\Debug\TestDevBackJr.exe
+C:\Evaluacion_Tecnica\testdevbackjr\Prueba_2\TestDevBackJr\TestDevBackJr\bin\Debug\TestDevBackJr.pdb
+C:\Evaluacion_Tecnica\testdevbackjr\Prueba_2\TestDevBackJr\TestDevBackJr\obj\Debug\TestDevBackJr.csprojAssemblyReference.cache
+C:\Evaluacion_Tecnica\testdevbackjr\Prueba_2\TestDevBackJr\TestDevBackJr\obj\Debug\TestDevBackJr.Properties.Resources.resources
+C:\Evaluacion_Tecnica\testdevbackjr\Prueba_2\TestDevBackJr\TestDevBackJr\obj\Debug\TestDevBackJr.Form1.resources
+C:\Evaluacion_Tecnica\testdevbackjr\Prueba_2\TestDevBackJr\TestDevBackJr\obj\Debug\TestDevBackJr.csproj.GenerateResource.cache
+C:\Evaluacion_Tecnica\testdevbackjr\Prueba_2\TestDevBackJr\TestDevBackJr\obj\Debug\TestDevBackJr.csproj.CoreCompileInputs.cache
+C:\Evaluacion_Tecnica\testdevbackjr\Prueba_2\TestDevBackJr\TestDevBackJr\obj\Debug\TestDevBackJr.exe
+C:\Evaluacion_Tecnica\testdevbackjr\Prueba_2\TestDevBackJr\TestDevBackJr\obj\Debug\TestDevBackJr.pdb
